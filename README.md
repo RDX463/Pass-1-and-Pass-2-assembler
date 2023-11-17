@@ -14,3 +14,7 @@ if not imported pakages then we have to import pakages needed to run code/progra
 7.Run the program(Their are total 3 classes : Pass1,InstTable,TableRow)
 
 For Pass two Same procedure only add empty text file of:IC.txt,LITTAB.txt,SYMTAB.txt,Pass 2
+
+For Shortcut Download the files and Paste in the Directory of Eclipse/Eclipse-workspace
+And open the eclipse application and click on files and select the option of the Open Project from File System
+And select the Directory of the Projects From the Eclipse/Eclipse-workspace you have pasted
