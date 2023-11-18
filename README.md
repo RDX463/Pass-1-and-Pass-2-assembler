@@ -23,8 +23,8 @@ if not imported pakages then we have to import pakages needed to run code/progra
 
 7.Run the program(Their are total 3 classes : Pass1,InstTable,TableRow)
 
-
 For Pass two Same procedure only add empty text file of:IC.txt,LITTAB.txt,SYMTAB.txt,Pass 2
+The Output of Pass 2 will be saved in the Pass_2.txt
 
 For Shortcut Download the files and Paste in the Directory of Eclipse/Eclipse-workspace
 
