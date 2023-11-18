@@ -9,7 +9,7 @@ For running Pass 1 and Pass two Assembler code in linux and windows(eclipse)
 Note:If pakages are imported by default in eclipse don't import another pakages otherwise code will give error
 if not imported pakages then we have to import pakages needed to run code/program
 
-3.Go to the directory of eclips-workspace (For linux the directory will be home/eclipse-workspace and for windows c:/Program Files/eclipse)
+3.Go to the directory of eclips-workspace (For linux the directory will be home/eclipse-workspace and for windows c:/User/<user_name>/Eclipse-Workspace)
 
 4.In our Pass 1 java project file create 4 empty text files of name IC.txt,LITTAB.txt,POOLTAB.txt,SYMTAB.txt
 
